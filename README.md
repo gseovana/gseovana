@@ -26,6 +26,13 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
+## 💡 Projetos
+
+🎓 Bolsista CNPq em projeto de pesquisa sobre o posicionamento de usuários do YouTube em relação à vacinação.  
+🐦 Atuei em um projeto de análise de ações coordenadas no Twitter durante as eleições brasileiras de 2022.  
+👩🏾‍🔬 Participo de um projeto de extensão que ensina ciências para estudantes do Ensino Fundamental I e II.  
+💻 Técnica em Desenvolvimento de Sistemas pelo CEFET-MG.  
+🔬 Mais sobre minha vida acadêmica aqui: [Currículo Lattes (CNPq)](http://lattes.cnpq.br/2620505651289221).
 
 ## 🧃 (Curiosidades) sobre mim
 
@@ -33,14 +40,6 @@
 🌱 Engajada com moda sustentável, meio ambiente e projetos com impacto social.  
 🎧 Minha playlist vai de k-pop a MPB, passando pelo indie, dando voltinha no pagodinho também... — comigo não tem tempo ruim!  
 🎬 Cinéfila em formação.
-
-## 💡 Projetos com propósito
-
-🎓 Bolsista CNPq em projeto de pesquisa sobre o posicionamento de usuários do YouTube em relação à vacinação.  
-🐦 Atuei em um projeto de análise de ações coordenadas no Twitter durante as eleições brasileiras de 2022.  
-👩🏾‍🔬 Participo de um projeto de extensão que ensina ciências para estudantes do Ensino Fundamental I e II.  
-💻 Técnica em Desenvolvimento de Sistemas pelo CEFET-MG.  
-🔬 Mais sobre minha vida acadêmica aqui: [Currículo Lattes (CNPq)](http://lattes.cnpq.br/2620505651289221).
 
 --- 
 
