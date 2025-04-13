@@ -2,7 +2,7 @@
 
 **`Programadora`**
 
-<p align="left"> Tenho 21 anos, sou apaixonada por tecnologia, dados e tudo que envolva criatividade e impacto social. Tenho experiência com pesquisa acadêmica em redes sociais, saúde pública e ensino de ciências, e estou em transição para o mercado de tecnologia e dados. 🌱💻 </p>
+<p align="left"> Tenho 21 anos, sou entusiasta de tecnologia, dados e tudo que envolva criatividade e impacto social. Tenho experiência com pesquisa acadêmica em redes sociais, saúde pública e ensino de ciências, e estou em transição para o mercado de tecnologia e dados. 🌱💻 </p>
 
 <p align="left">
   <img 
@@ -38,7 +38,7 @@
 
 🧶 Apaixonada por crochê, pintura, desenho, costura, escultura com cerâmica fria e argila  
 🌱 Engajada com moda sustentável, meio ambiente e projetos com impacto social.  
-🎧 Minha playlist vai de k-pop a MPB, passando pelo indie, dando voltinha no pagodinho também... — comigo não tem tempo ruim!  
+🎧 Minha playlist vai de k-pop a MPB, do indie ao pagodinho... — comigo não tem tempo ruim!  
 🎬 Cinéfila em formação.
 
 --- 
