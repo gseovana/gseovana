@@ -32,7 +32,7 @@
 🐦 Atuei em um projeto de análise de ações coordenadas no Twitter durante as eleições brasileiras de 2022.  
 👩🏾‍🔬 Participo de um projeto de extensão que ensina ciências para estudantes do Ensino Fundamental I e II.  
 💻 Técnica em Desenvolvimento de Sistemas pelo CEFET-MG.  
-🔬 Mais sobre minha vida acadêmica aqui: [Currículo Lattes (CNPq)](http://lattes.cnpq.br/2620505651289221).
+🔬 Mais sobre minha vida acadêmica e publicações aqui: [Currículo Lattes (CNPq)](http://lattes.cnpq.br/2620505651289221).
 
 ## 🧃 (Curiosidades) sobre mim
 
