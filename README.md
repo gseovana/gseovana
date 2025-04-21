@@ -36,10 +36,9 @@
 
 ## 🧃 (Curiosidades) sobre mim
 
-🧶 Apaixonada por crochê, pintura, desenho, costura, escultura com cerâmica fria e argila  
-🌱 Engajada com moda sustentável, meio ambiente e projetos com impacto social.  
-🎧 Minha playlist vai de k-pop a MPB, do indie ao pagodinho... — comigo não tem tempo ruim!  
-🎬 Cinéfila em formação.
+🧶 Estusiasta de crochê, pintura, desenho, costura, escultura com cerâmica fria e argila.<br>
+🌱 Engajada com moda sustentável, meio ambiente e projetos que tenham impacto social.<br>
+🎧🎬 Ouvinte eclética e cinéfila em formação.
 
 --- 
 
