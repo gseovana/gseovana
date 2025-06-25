@@ -28,7 +28,6 @@
 
 ## 💡 Projetos
 
-📘 Aluna do Programa Desenvolve | Grupo Boticário.<br>
 🎓 Bolsista CNPq em projeto de pesquisa sobre o posicionamento de usuários do YouTube em relação à vacinação.  
 🐦 Trabalhei em um projeto de análise de ações coordenadas no Twitter durante as eleições brasileiras de 2022.  
 👩🏾‍🔬 Participo de um projeto de extensão que ensina ciências para estudantes do Ensino Fundamental I e II.  
