@@ -1,8 +1,10 @@
 # ✨ Oii! Eu sou a Geovana 👋
 
-**`Programadora | Cientista de dados júnior`**
+**`Programadora | Pesquisa Científica | CiÊncia de Dados `**
 
-<p align="left">Tenho 22 anos e sou formada em Desenvolvimento de Sistemas pelo CEFET-MG. Atualmente, sou graduanda em Sistemas de Informação pela Universidade Federal de Ouro Preto (UFOP) e sou movida pela curiosidade em entender como a tecnologia e os dados podem podem ser aplicados para resolver desafios em diferentess contextos. Tenho experiência em pesquisa acadêmica com modelagem e análise de redes complexas, análise de mídias sociais e desenvolvimento de pipelines de machine learning. Minha maior motivação é o desafio de aprender continuamente e perceber minha própria evolução, especialmente ao descobrir novas possibilidades de aplicação para diferentes tecnologias. 😼</p>
+<p align="left"> Tenho 22 anos e sou formada em Desenvolvimento de Sistemas pelo CEFET-MG. Atualmente, curso Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP) e sou movida pela curiosidade em entender como tecnologia e dados podem ser aplicados para resolver desafios em diferentes contextos.
+
+Tenho experiência em pesquisa acadêmica envolvendo modelagem e análise de redes complexas, análise de mídias sociais e desenvolvimento de pipelines de machine learning.😼</p>
 
 <p align="left">
   <img 
