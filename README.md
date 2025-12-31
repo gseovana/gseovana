@@ -1,20 +1,15 @@
 # ✨ Oii! Eu sou a Geovana 👋
 
-**`Programadora | Pesquisa Científica | CiÊncia de Dados `**
+**`Programadora | Pesquisadora | Cientista de Dados `**
 
 <p align="left"> Tenho 22 anos e sou formada em Desenvolvimento de Sistemas pelo CEFET-MG. Atualmente, curso Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP) e sou movida pela curiosidade em entender como tecnologia e dados podem ser aplicados para resolver desafios em diferentes contextos.
 
 Tenho experiência em pesquisa acadêmica envolvendo modelagem e análise de redes complexas, análise de mídias sociais e desenvolvimento de pipelines de machine learning.😼</p>
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gseovana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    height="200"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gseovana&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    height="200"
-  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gseovana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gseovana&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 </p>
 
 ## 🤖 Linguagens e Tecnologias
