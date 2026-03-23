@@ -16,7 +16,7 @@
 
 ---
 
-Pesquisadora em ciência de dados com foco em **NLP**, **análise de redes complexas** e **pipelines de machine learning**. Atualmente desenvolvo projetos de classificação semi-supervisionada e extração de backbone em redes de mídias sociais.
+Estudante de Sistemas de Informação na UFOP, com foco em **Data Science e Machine Learning**. Experiência no desenvolvimento de pipelines e modelos aplicados a dados reais, especialmente em NLP, aprendizado semi-supervisionado e análise de mídias sociais.
 
 ---
 
