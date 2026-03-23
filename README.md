@@ -1,43 +1,80 @@
-# ✨ Oii! Eu sou a Geovana 👋
-
-**`Programadora | Pesquisadora | Cientista de Dados `**
-
-<p align="left"> Tenho 22 anos e sou formada em Desenvolvimento de Sistemas pelo CEFET-MG. Atualmente, curso Sistemas de Informação na Universidade Federal de Ouro Preto (UFOP) e sou movida pela curiosidade em entender como tecnologia e dados podem ser aplicados para resolver desafios em diferentes contextos.
-
-Tenho experiência em pesquisa acadêmica envolvendo modelagem e análise de redes complexas, análise de mídias sociais e desenvolvimento de pipelines de machine learning.😼</p>
+<h1 align="center">Geovana Silva de Oliveira</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gseovana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gseovana&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+  <strong>Cientista de Dados · Machine Learning · Sistemas de Informação @ UFOP</strong>
 </p>
 
-## 🤖 Linguagens e Tecnologias
+<p align="center">
+  <a href="http://lattes.cnpq.br/2620505651289221">
+    <img src="https://img.shields.io/badge/Lattes-CNPq-blue?style=flat-square"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gseovana">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
+
+---
+
+Pesquisadora em ciência de dados com foco em **NLP**, **análise de redes complexas** e **pipelines de machine learning**. Atualmente desenvolvo projetos de classificação semi-supervisionada e extração de backbone em redes de mídias sociais.
+
+---
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=gseovana&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gseovana&theme=tokyonight&layout=compact&langs_count=6&hide_border=true"/>
+</p>
+
+---
+
+## Projetos
+
+**⚙️ Framework de Self-Training — Aprendizado Semi-Supervisionado**  
+Framework modular para aprendizado semi-supervisionado baseado em **self-training**, com suporte a múltiplos modelos e datasets. O sistema inclui seleção de pseudo-rótulos por confiança (low-entropy), estratégias de balanceamento de classes e controle de propagação de erro. O pipeline foi estruturada com cross-validation, grid search por modelo/dataset e avaliação padronizada, com foco em **reprodutibilidade, comparação de estratégias e robustez experimental**.
+
+**💉 Classificação de Opinião sobre Vacinação — Comentários do YouTube**  
+Análise de posicionamento sobre vacinação no Brasil a partir de comentários do YouTube. Pipeline completo incluindo coleta via API, pré-processamento, rotulação manual e classificação de texto. Utilizei modelos como BERT e LLaMA com fine-tuning, validação com k-fold cross-validation e análise de métricas (F1, precisão, recall).
+
+**🐦 Análise de Redes — Twitter/X (Eleições Brasileiras 2022)**  
+Framework para análise de redes de co-interação durante eventos políticos de alta atividade. As redes são construídas a partir de interações entre usuários e filtradas com técnicas de backbone (Polya Urn e Disparity Filter). Aplicação de detecção de comunidades (Louvain) e modelagem de tópicos (BERTopic) para caracterizar grupos e analisar como diferentes narrativas se organizam e se propagam.
+**2º melhor artigo no WebMedia 2024** · Publicado no Journal on Interactive Systems (2025)  
+[`github.com/gseovana/bidimensional-network-backbone-framework`](https://github.com/gseovana/bidimensional-network-backbone-framework)
+
+---
+
+## 🛠️ Tecnologias
+
+**Dados & ML**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square)
+
+**NLP & Deep Learning**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/-Transformers-FF6F00?style=flat-square&logo=huggingface&logoColor=white)
+![LoRA / QLoRA](https://img.shields.io/badge/-LoRA%20%2F%20QLoRA-8A2BE2?style=flat-square)
+![BERTopic](https://img.shields.io/badge/-BERTopic-FF69B4?style=flat-square)
+
+**Outros**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-## 💡 Um pouquinho do que já desenvolvi e no que venho trabalhando...
-  ### ▶️ Análise de posicionamento de comentários no Youtube em relação a vacinação<br>
-  <p>Investigação sobre a queda da cobertura vacinal no Brasil, analisando comentários de vídeos relacionados à vacinação. O projeto envolveu coleta de dados via API do YouTube, pré-processamento, rotulação manual e aplicação de modelos de aprendizado de máquina e profundo (BERT e LLaMa) para classificação semi-supervisionada. Através de uma estratégia de self-learning, aprimoramos a performance do modelo e identificamos tendências e padrões de opinião sobre vacinação.</p>
-
-  ### 🐦 Análise de ações coordenadas no Twitter/X durante as eleições brasileiras de 2022.<br>
-  <p>Este projeto investigou a disseminação de informações no X (antigo Twitter) durante as eleições, com foco na identificação de grupos coordenados e na análise de padrões de propagação de conteúdo político. Realizamos a coleta de dados por meio da API do Twitter e construímos redes de co-interações, considerando também o tempo médio entre essas interações. Em seguida, extraímos o backbone da rede, preservando apenas as arestas mais relevantes com o Polya Urn Filter, e classificamos as interações em quatro categorias com base no número e na velocidade das co-interações. Por fim, aplicamos o algoritmo Louvain para detectar comunidades e analisamos perfis e padrões de comportamento dentro dessas comunidades, oferecendo insights sobre a dinâmica de disseminação de informação.</p>
-
-  ### 👩‍🔬 Universidade além dos muros com oficina de ciências
-  <p>Projeto desenvolvido em parceria com escolas da educação básica (5º e 8º anos) visando a melhoria do ensino de ciências por meio de oficinas pedagógicas e atividades práticas. As ações incluíram visitas a laboratórios universitários, experimentos em sala de aula e gincanas científicas, estimulando a curiosidade, a cooperação e o interesse pela ciência. O projeto aproximou estudantes do ambiente acadêmico e demonstrou a importância da inserção do pensamento científico desde cedo.</p>
-  
-### 🔬 Mais sobre minha carreira acadêmica e publicações aqui: [Currículo Lattes (CNPq)](http://lattes.cnpq.br/2620505651289221).
-
---- 
+---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250"/>
+  <i>"Nothing in life is to be feared, it is only to be understood."</i><br/>
+  <sub>— Marie Curie</sub>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
+</p>
